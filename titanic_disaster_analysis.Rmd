@@ -1,5 +1,5 @@
 ---
-title: "**R Assignment - 2**"
+title: "**Titanic disaster**"
 author: "Jasmeet Singh Saini - 0758054"
 date: "`r Sys.Date()`"
 output: pdf_document
